@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">354078140588-47g9d683mlu25v714f3hmn2notd9uves.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://medicalapp-17479.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">354078140588</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdNZkJhEwERPmT_U6de9WmdGPSj3kQG8U</string>
+    <string name="google_app_id" translatable="false">1:354078140588:android:6fdde6a33496963e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdNZkJhEwERPmT_U6de9WmdGPSj3kQG8U</string>
+    <string name="google_storage_bucket" translatable="false">medicalapp-17479.appspot.com</string>
+    <string name="project_id" translatable="false">medicalapp-17479</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<color name="colorPrimary">#FCCC00</color>
+<color name="colorPrimaryDark">#FCCC00</color>
+<color name="colorAccent">#FCCC00</color>
+
+<color name="whiteColor">#FFFFFF</color>
+<color name="blueColor">#6CA6CD</color>
+<color name="errorColor">#FF6347</color>
+<color name="shareColor">#6CA6CD</color>
+<color name="callColor">#00B32C</color>
+</resources>

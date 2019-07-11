@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_signup_username.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/signup_username.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_okay.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/okay.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_buttontyle_main.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/buttontyle_main.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_dots.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/dots.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_my_location.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_vanicon.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/mipmap-mdpi/vanicon.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_activity_verification.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/activity_verification.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_optnlogo.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/optnlogo.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_signup_password.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/signup_password.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_intoductionimage1.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/intoductionimage1.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_stop_black_24dp.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_stop_black_24dp.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-anydpi_dialog_bd.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-anydpi/dialog_bd.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_vanicon.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/mipmap-xxhdpi/vanicon.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_counter_text_style.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/counter_text_style.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_cancel_icon.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/cancel_icon.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_linkedin.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/linkedin.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-anydpi_stopvisitedicon.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-anydpi/stopvisitedicon.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_back.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cardback.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xxhdpi/cardback.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_white_circle.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/white_circle.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-mdpi_call.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-mdpi/call.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/menu_navigation.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_optnlogo.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/mipmap-xxhdpi/optnlogo.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_facebook.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/facebook.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_menu.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/menu.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-anydpi_okay.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-anydpi/okay.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_vanicon.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/mipmap-hdpi/vanicon.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_activity_intro.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-anydpi_end.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-anydpi/end.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_okay.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xxhdpi/okay.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_twittercircled.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/twittercircled.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_vanicon.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/mipmap-xhdpi/vanicon.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_fragment_search.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_start.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/start.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_my_location_blac.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_my_location_blac.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_box.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/box.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_bus_black.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_bus_black.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_activity_work.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/activity_work.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_share.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/share.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_vanicon.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/mipmap-xxxhdpi/vanicon.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_instagramnew.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xhdpi/instagramnew.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_login_username.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/login_username.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-mdpi_okay.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-mdpi/okay.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_login_password.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/login_password.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/c883af30e525e5d7265690d248fce3ee/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_fragment_docs.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/fragment_docs.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-hdpi_okay.png.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-hdpi/okay.png"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_add_location.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_add_location.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_signup_detail.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/layout/signup_detail.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_buttonstyle.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-xxhdpi/buttonstyle.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_settings_black_24dp.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable_ic_power_settings_new_black_24dp.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable/ic_power_settings_new_black_24dp.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-anydpi_person.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-anydpi/person.xml"
+    },
+    {
+        "merged": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/res/merged/debug/drawable-mdpi_stopicon.xml.flat",
+        "source": "/home/rohan/Desktop/GIT/MedicalApp/app/src/main/res/drawable-mdpi/stopicon.xml"
+    }
+]
