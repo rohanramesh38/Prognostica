@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml
+8-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml
+9-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 11-->[com.google.firebase:firebase-database:16.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/6be56a08bcedc3acf9bc6c37e9bac5c4/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
@@ -24,251 +24,259 @@
 14-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
 15
 16    <application
-16-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:5:5-71:19
+16-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:5:5-75:19
 17        android:allowBackup="true"
-17-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:6:9-35
+17-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:6:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/4c209d458ce683feb5888dd027a979c4/core-1.0.1/AndroidManifest.xml:22:18-86
 19        android:debuggable="true"
 20        android:icon="@drawable/optnlogo"
-20-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:7:9-42
+20-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:7:9-42
 21        android:label="@string/app_name"
-21-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:8:9-41
+21-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:8:9-41
 22        android:roundIcon="@drawable/optnlogo"
-22-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:9:9-47
+22-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:9:9-47
 23        android:supportsRtl="true"
-23-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:10:9-35
+23-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:10:9-35
 24        android:testOnly="true"
 25        android:theme="@style/AppTheme" >
-25-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:11:9-40
-26        <activity android:name="com.example.medicalapp.WorkActivity" />
-26-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:12:9-59
-26-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:12:19-47
-27        <activity android:name="com.example.medicalapp.introduction.IntroActivity" />
-27-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:13:9-64
-27-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:13:19-61
-28        <activity android:name="com.example.medicalapp.utils.MainActivity" >
-28-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:14:9-20:20
-28-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:14:19-53
-29            <intent-filter>
-29-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:15:13-19:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:16:17-69
-30-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:16:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:18:17-77
-32-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:18:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity
-35-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:21:9-30:20
-36            android:name="com.example.medicalapp.authenticate.LoginUsername"
-36-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:22:13-55
-37            android:screenOrientation="portrait"
-37-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:23:13-49
-38            android:theme="@style/AppTheme.NoActionBar" >
-38-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:24:13-56
-39            <intent-filter>
-39-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:25:13-29:29
-40                <action android:name="android.intent.action.LOGINUSERNAME" />
-40-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:26:17-78
-40-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:26:25-75
-41
-42                <category android:name="android.intent.category.DEFAULT" />
-42-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:17-76
-42-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:27-73
-43            </intent-filter>
-44        </activity>
-45        <activity
-45-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:31:9-40:20
-46            android:name="com.example.medicalapp.authenticate.LoginPassword"
-46-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:32:13-55
-47            android:screenOrientation="portrait"
-47-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:33:13-49
-48            android:theme="@style/AppTheme.NoActionBar" >
-48-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:34:13-56
-49            <intent-filter>
-49-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:35:13-39:29
-50                <action android:name="android.intent.action.LOGINPASSWORD" />
-50-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:36:17-78
-50-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:36:25-75
-51
-52                <category android:name="android.intent.category.DEFAULT" />
-52-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:17-76
-52-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:27-73
-53            </intent-filter>
-54        </activity>
-55        <activity
-55-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:41:9-50:20
-56            android:name="com.example.medicalapp.authenticate.SignupUsername"
-56-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:42:13-56
-57            android:screenOrientation="portrait"
-57-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:43:13-49
-58            android:theme="@style/AppTheme.NoActionBar" >
-58-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:44:13-56
-59            <intent-filter>
-59-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:45:13-49:29
-60                <action android:name="android.intent.action.SIGNUPUSERNAME" />
-60-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:46:17-79
-60-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:46:25-76
-61
-62                <category android:name="android.intent.category.DEFAULT" />
-62-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:17-76
-62-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:27-73
-63            </intent-filter>
-64        </activity>
-65        <activity
-65-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:51:9-60:20
-66            android:name="com.example.medicalapp.authenticate.SignupPassword"
-66-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:52:13-56
-67            android:screenOrientation="portrait"
-67-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:53:13-49
-68            android:theme="@style/AppTheme.NoActionBar" >
-68-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:54:13-56
-69            <intent-filter>
-69-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:55:13-59:29
-70                <action android:name="android.intent.action.SIGNUPPASSWORD" />
-70-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:56:17-79
-70-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:56:25-76
-71
-72                <category android:name="android.intent.category.DEFAULT" />
-72-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:17-76
-72-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:27-73
-73            </intent-filter>
-74        </activity>
-75        <activity
-75-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:61:9-70:20
-76            android:name="com.example.medicalapp.authenticate.SignupDetail"
-76-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:62:13-54
-77            android:screenOrientation="portrait"
-77-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:63:13-49
-78            android:theme="@style/AppTheme.NoActionBar" >
-78-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:64:13-56
-79            <intent-filter>
-79-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:65:13-69:29
-80                <action android:name="android.intent.action.SIGNUPDETAIL" />
-80-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:66:17-77
-80-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:66:25-74
-81
-82                <category android:name="android.intent.category.DEFAULT" />
-82-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:17-76
-82-->/home/rohan/Desktop/GIT/MedicalApp/app/src/main/AndroidManifest.xml:28:27-73
-83            </intent-filter>
-84        </activity>
-85        <activity
-85-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
-86            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-86-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
-87            android:excludeFromRecents="true"
-87-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
-88            android:exported="true"
-88-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
-89            android:launchMode="singleTask"
-89-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
-90            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-90-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
-91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-91-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
-92
-93        <service
-93-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
-94            android:name="com.google.firebase.components.ComponentDiscoveryService"
-94-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
-95            android:exported="false" >
-95-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
-96            <meta-data
-96-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
-97                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-97-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
-98                android:value="com.google.firebase.components.ComponentRegistrar" />
-98-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
-99            <meta-data
-99-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
-100                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-100-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
-101                android:value="com.google.firebase.components.ComponentRegistrar" />
-101-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
-102        </service>
-103        <!--
-104             FirebaseMessagingService performs security checks at runtime,
-105             no need for explicit permissions despite exported="true"
-106        -->
-107        <service
-107-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
-108            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-108-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
-109            android:exported="true" >
-109-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
-110            <intent-filter android:priority="-500" >
-110-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:13-33:29
-110-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:28-51
-111                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-111-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:17-78
-111-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:25-75
-112            </intent-filter>
-113        </service>
-114
-115        <receiver
-115-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
-116            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-116-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
-117            android:exported="true"
-117-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
-118            android:permission="com.google.android.c2dm.permission.SEND" >
-118-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
-119            <intent-filter>
-119-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
-120                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-120-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
-120-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
-121            </intent-filter>
-122        </receiver>
-123        <!--
-124             FirebaseInstanceIdService performs security checks at runtime,
-125             no need for explicit permissions despite exported="true"
-126        -->
-127        <service
-127-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
-128            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-128-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
-129            android:exported="true" >
-129-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
-130            <intent-filter android:priority="-500" >
-130-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
-130-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
-131                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-131-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
-131-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
-132            </intent-filter>
-133        </service>
-134
-135        <activity
-135-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
-136            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-136-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
-137            android:exported="false"
-137-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
-138            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-138-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
-139
-140        <provider
-140-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
-141            android:name="com.google.firebase.provider.FirebaseInitProvider"
-141-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
-142            android:authorities="com.example.medicalapp.firebaseinitprovider"
-142-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
-143            android:exported="false"
-143-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
-144            android:initOrder="100" />
-144-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
-145
-146        <meta-data
-146-->[com.google.android.gms:play-services-basement:16.1.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
-147            android:name="com.google.android.gms.version"
-147-->[com.google.android.gms:play-services-basement:16.1.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
-148            android:value="@integer/google_play_services_version" />
-148-->[com.google.android.gms:play-services-basement:16.1.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
-149    </application>
-150
-151</manifest>
+25-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:11:9-40
+26        <activity android:name="com.example.medicalapp.MedActivity" />
+26-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:12:9-58
+26-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:12:19-46
+27        <activity android:name="com.example.medicalapp.WorkActivity" />
+27-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:13:9-50
+27-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:13:19-47
+28        <activity android:name="com.example.medicalapp.introduction.IntroActivity" />
+28-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:14:9-64
+28-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:14:19-61
+29        <activity
+29-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:15:9-24:20
+30            android:name="com.example.medicalapp.utils.MainActivity"
+30-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:15:19-53
+31            android:screenOrientation="portrait"
+31-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:16:13-49
+32            android:theme="@style/AppTheme.NoActionBar" >
+32-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:17:13-56
+33            <intent-filter>
+33-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:19:13-23:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:20:17-69
+34-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:20:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:22:17-77
+36-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:22:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:25:9-34:20
+40            android:name="com.example.medicalapp.authenticate.LoginUsername"
+40-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:26:13-55
+41            android:screenOrientation="portrait"
+41-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:27:13-49
+42            android:theme="@style/AppTheme.NoActionBar" >
+42-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:28:13-56
+43            <intent-filter>
+43-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:29:13-33:29
+44                <action android:name="android.intent.action.LOGINUSERNAME" />
+44-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:30:17-78
+44-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:30:25-75
+45
+46                <category android:name="android.intent.category.DEFAULT" />
+46-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:17-76
+46-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:27-73
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:35:9-44:20
+50            android:name="com.example.medicalapp.authenticate.LoginPassword"
+50-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:36:13-55
+51            android:screenOrientation="portrait"
+51-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:37:13-49
+52            android:theme="@style/AppTheme.NoActionBar" >
+52-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:38:13-56
+53            <intent-filter>
+53-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:39:13-43:29
+54                <action android:name="android.intent.action.LOGINPASSWORD" />
+54-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:40:17-78
+54-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:40:25-75
+55
+56                <category android:name="android.intent.category.DEFAULT" />
+56-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:17-76
+56-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:27-73
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:45:9-54:20
+60            android:name="com.example.medicalapp.authenticate.SignupUsername"
+60-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:46:13-56
+61            android:screenOrientation="portrait"
+61-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:47:13-49
+62            android:theme="@style/AppTheme.NoActionBar" >
+62-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:48:13-56
+63            <intent-filter>
+63-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:49:13-53:29
+64                <action android:name="android.intent.action.SIGNUPUSERNAME" />
+64-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:50:17-79
+64-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:50:25-76
+65
+66                <category android:name="android.intent.category.DEFAULT" />
+66-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:17-76
+66-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:27-73
+67            </intent-filter>
+68        </activity>
+69        <activity
+69-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:55:9-64:20
+70            android:name="com.example.medicalapp.authenticate.SignupPassword"
+70-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:56:13-56
+71            android:screenOrientation="portrait"
+71-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:57:13-49
+72            android:theme="@style/AppTheme.NoActionBar" >
+72-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:58:13-56
+73            <intent-filter>
+73-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:59:13-63:29
+74                <action android:name="android.intent.action.SIGNUPPASSWORD" />
+74-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:60:17-79
+74-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:60:25-76
+75
+76                <category android:name="android.intent.category.DEFAULT" />
+76-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:17-76
+76-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:27-73
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:65:9-74:20
+80            android:name="com.example.medicalapp.authenticate.SignupDetail"
+80-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:66:13-54
+81            android:screenOrientation="portrait"
+81-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:67:13-49
+82            android:theme="@style/AppTheme.NoActionBar" >
+82-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:68:13-56
+83            <intent-filter>
+83-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:69:13-73:29
+84                <action android:name="android.intent.action.SIGNUPDETAIL" />
+84-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:70:17-77
+84-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:70:25-74
+85
+86                <category android:name="android.intent.category.DEFAULT" />
+86-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:17-76
+86-->/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/src/main/AndroidManifest.xml:32:27-73
+87            </intent-filter>
+88        </activity>
+89        <activity
+89-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+90            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+90-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+91            android:excludeFromRecents="true"
+91-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+92            android:exported="true"
+92-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+93            android:launchMode="singleTask"
+93-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+94            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+94-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+96
+97        <service
+97-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+98            android:name="com.google.firebase.components.ComponentDiscoveryService"
+98-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+99            android:exported="false" >
+99-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+100            <meta-data
+100-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+101                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+101-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-auth:16.0.5] /home/rohan/.gradle/caches/transforms-2/files-2.1/d5e74b8bc603a72bc2e63656a3d49c16/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+104                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+104-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+106        </service>
+107        <!--
+108             FirebaseMessagingService performs security checks at runtime,
+109             no need for explicit permissions despite exported="true"
+110        -->
+111        <service
+111-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+112            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+112-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+113            android:exported="true" >
+113-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+114            <intent-filter android:priority="-500" >
+114-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:13-33:29
+114-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:28-51
+115                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+115-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:17-78
+115-->[com.google.firebase:firebase-messaging:17.3.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/62e66e72bb5a9e2edd08230de84566ea/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:25-75
+116            </intent-filter>
+117        </service>
+118
+119        <receiver
+119-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+120            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+120-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+121            android:exported="true"
+121-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+122            android:permission="com.google.android.c2dm.permission.SEND" >
+122-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+123            <intent-filter>
+123-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+124                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+124-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+124-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+125            </intent-filter>
+126        </receiver>
+127        <!--
+128             FirebaseInstanceIdService performs security checks at runtime,
+129             no need for explicit permissions despite exported="true"
+130        -->
+131        <service
+131-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+132            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+132-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+133            android:exported="true" >
+133-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+134            <intent-filter android:priority="-500" >
+134-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
+134-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
+135                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+135-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
+135-->[com.google.firebase:firebase-iid:17.0.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/ffd65c0a7321c81e06dfa15a591b4cb7/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
+136            </intent-filter>
+137        </service>
+138
+139        <activity
+139-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+140            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+140-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+141            android:exported="false"
+141-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+142            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+142-->[com.google.android.gms:play-services-base:16.0.1] /home/rohan/.gradle/caches/transforms-2/files-2.1/bf4ac44acafff4608a0218f06feabd87/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+143
+144        <provider
+144-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+145            android:name="com.google.firebase.provider.FirebaseInitProvider"
+145-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+146            android:authorities="com.example.medicalapp.firebaseinitprovider"
+146-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+147            android:exported="false"
+147-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+148            android:initOrder="100" />
+148-->[com.google.firebase:firebase-common:16.0.3] /home/rohan/.gradle/caches/transforms-2/files-2.1/7ec293f4f8b30b289559ea37a03e5e71/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+149
+150        <meta-data
+150-->[com.google.android.gms:play-services-basement:16.1.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+151            android:name="com.google.android.gms.version"
+151-->[com.google.android.gms:play-services-basement:16.1.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+152            android:value="@integer/google_play_services_version" />
+152-->[com.google.android.gms:play-services-basement:16.1.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+153    </application>
+154
+155</manifest>

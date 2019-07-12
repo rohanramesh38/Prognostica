@@ -392,9 +392,11 @@ attr lottie_imageAssetsFolder
 attr lottie_loop
 attr lottie_progress
 attr lottie_rawRes
+attr lottie_renderMode
 attr lottie_repeatCount
 attr lottie_repeatMode
 attr lottie_scale
+attr lottie_speed
 attr lottie_url
 attr materialButtonStyle
 attr materialCardViewStyle
@@ -1113,6 +1115,7 @@ drawable notify_panel_notification_icon_bg
 drawable okay
 drawable optnlogo
 drawable person
+drawable shape1
 drawable share
 drawable start
 drawable stopicon
@@ -1155,6 +1158,7 @@ id all
 id always
 id async
 id auto
+id automatic
 id barrier
 id beginning
 id blocking
@@ -1182,6 +1186,7 @@ id customPanel
 id dark
 id decor_content_parent
 id default_activity_button
+id description
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -1212,6 +1217,7 @@ id ghost_view
 id gone
 id group_divider
 id groups
+id hardware
 id home
 id homeAsUp
 id icon
@@ -1246,6 +1252,7 @@ id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
 id nameInfo
+id nameq
 id nav_docs
 id nav_home
 id nav_setting
@@ -1269,6 +1276,7 @@ id parent_matrix
 id password
 id percent
 id pin
+id profilepicture
 id progressBar
 id progress_circular
 id progress_horizontal
@@ -1310,7 +1318,9 @@ id snackbar_action
 id snackbar_text
 id snap
 id snapMargins
+id software
 id spacer
+id spl
 id split_action_bar
 id spread
 id spread_inside
@@ -1354,6 +1364,8 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tv1
+id tv2
 id uniform
 id unlabeled
 id up
@@ -1417,6 +1429,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_intro
 layout activity_main
+layout activity_med
 layout activity_verification
 layout activity_work
 layout design_bottom_navigation_item
@@ -1455,6 +1468,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout recycle_template
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2101,7 +2115,7 @@ styleable LinearLayoutCompat android_gravity android_orientation android_baselin
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset
 styleable LoadingImageView circleCrop imageAspectRatio imageAspectRatioAdjust
-styleable LottieAnimationView lottie_autoPlay lottie_colorFilter lottie_enableMergePathsForKitKatAndAbove lottie_fileName lottie_imageAssetsFolder lottie_loop lottie_progress lottie_rawRes lottie_repeatCount lottie_repeatMode lottie_scale lottie_url
+styleable LottieAnimationView lottie_autoPlay lottie_colorFilter lottie_enableMergePathsForKitKatAndAbove lottie_fileName lottie_imageAssetsFolder lottie_loop lottie_progress lottie_rawRes lottie_renderMode lottie_repeatCount lottie_repeatMode lottie_scale lottie_speed lottie_url
 styleable MaterialButton android_insetLeft android_insetRight android_insetTop android_insetBottom backgroundTint backgroundTintMode cornerRadius icon iconGravity iconPadding iconSize iconTint iconTintMode rippleColor strokeColor strokeWidth
 styleable MaterialCardView strokeColor strokeWidth
 styleable MaterialComponentsTheme bottomSheetDialogTheme bottomSheetStyle chipGroupStyle chipStandaloneStyle chipStyle colorAccent colorBackgroundFloating colorPrimary colorPrimaryDark colorSecondary editTextStyle floatingActionButtonStyle materialButtonStyle materialCardViewStyle navigationViewStyle scrimBackground snackbarButtonStyle tabStyle textAppearanceBody1 textAppearanceBody2 textAppearanceButton textAppearanceCaption textAppearanceHeadline1 textAppearanceHeadline2 textAppearanceHeadline3 textAppearanceHeadline4 textAppearanceHeadline5 textAppearanceHeadline6 textAppearanceOverline textAppearanceSubtitle1 textAppearanceSubtitle2 textInputStyle

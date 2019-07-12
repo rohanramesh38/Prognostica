@@ -29,6 +29,7 @@ public class WorkActivity extends AppCompatActivity {
 
         DatabaseReference db= FirebaseDatabase.getInstance().getReference().child("Symptoms");
 
+        DatabaseReference db1= FirebaseDatabase.getInstance().getReference().child("Disease");
 
 
         navigationView.setOnNavigationItemSelectedListener(new OnNavigationItemSelectedListener() {
@@ -43,13 +44,11 @@ public class WorkActivity extends AppCompatActivity {
                     case R.id.nav_home:
                         fragment=new SearchFragment();
                         loadFragment(fragment);
-                        Toast.makeText(getApplicationContext(), "home", Toast.LENGTH_LONG).show();
                         break;
 
                     case R.id.nav_docs:
                         fragment=new DocsFragment();
                         loadFragment(fragment);
-                        Toast.makeText(getApplicationContext(), "docs", Toast.LENGTH_LONG).show();
 
                         break;
 
@@ -57,13 +56,14 @@ public class WorkActivity extends AppCompatActivity {
 
                         fragment=new SettingsFragment();
                         loadFragment(fragment);
-                        Toast.makeText(getApplicationContext(), "setting", Toast.LENGTH_SHORT).show();
 
                         break;
                 }
                 return false;
             }
         });
+
+   navigationView.setSelectedItemId(R.id.nav_home);
     }
 
 

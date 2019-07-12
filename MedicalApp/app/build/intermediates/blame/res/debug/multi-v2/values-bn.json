@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
+            "outputFile": "/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/dbdd2ec672661d79a3a4498e1a99f3ac/appcompat-1.0.2/res/values-bn/values-bn.xml",

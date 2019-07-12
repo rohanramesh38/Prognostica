@@ -9,9 +9,13 @@
         android:roundIcon="@drawable/optnlogo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WorkActivity"></activity>
+        <activity android:name=".MedActivity"></activity>
+        <activity android:name=".WorkActivity" />
         <activity android:name=".introduction.IntroActivity" />
-        <activity android:name=".utils.MainActivity">
+        <activity android:name=".utils.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

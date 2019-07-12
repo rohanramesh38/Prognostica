@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/f4684cf918b90dd886e977bdc0178e1d/cardview-1.0.0/res/values-v23/values-v23.xml",

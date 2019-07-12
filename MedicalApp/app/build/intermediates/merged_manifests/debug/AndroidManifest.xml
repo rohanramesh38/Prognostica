@@ -23,9 +23,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.medicalapp.MedActivity" />
         <activity android:name="com.example.medicalapp.WorkActivity" />
         <activity android:name="com.example.medicalapp.introduction.IntroActivity" />
-        <activity android:name="com.example.medicalapp.utils.MainActivity" >
+        <activity
+            android:name="com.example.medicalapp.utils.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

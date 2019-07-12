@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/66f17b98f6c19286ac8c42a19508424c/jetified-play-services-basement-16.1.0/res/values-ca/values.xml",

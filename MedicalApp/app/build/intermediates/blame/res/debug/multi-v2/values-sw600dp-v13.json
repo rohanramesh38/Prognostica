@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rohan/Desktop/GIT/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/home/rohan/Desktop/GIT/Prognostica/MedicalApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/2430b5bcfdd37bc6735dc6747dd03818/material-1.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
