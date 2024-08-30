@@ -33,7 +33,7 @@ Prognostica is a Flask-based web application designed for medical ailment classi
 4. Run the application:
 
     ```bash
-    python app.py
+    python server.py
     ```
 
     The app will start running on the local server (`192.168.43.204`) at port `5051`.
