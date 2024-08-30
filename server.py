@@ -15,14 +15,14 @@ def index():
 	lines = request.get_json().get("data")
 	lines=str(lines).strip(' ')
 	print(lines)
-	strr=lines[:]
-	strr=strr.replace('[','')
-	strr=strr.replace(']','')
-	strr=strr.split(',')
+	request_str=lines[:]
+	request_str=request_str.replace('[','')
+	request_str=request_str.replace(']','')
+	request_str=request_str.split(',')
 	
-	print(strr)
-	print(strr[0])
-	print(type(strr))
+	print(request_str)
+	print(request_str[0])
+	print(type(request_str))
 	data = pd.read_csv('csvfile.csv')
 	#print(data.shape)
 	data = data.fillna(0)
@@ -30,7 +30,6 @@ def index():
 	#print(data.info())
 
 	cols = data.columns.tolist()
-	#print("Colsssssssssssssssssssssssssss")
 	#print(cols)
 	cols.remove('disease')
 	x = data[cols]
@@ -44,14 +43,14 @@ def index():
 	mnb = mnb.fit(x_train, y_train)
 
 
-	#print("trainnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn")
+
 	#print(x_train)
-	#print("222222222222222222222222")
+
 	#print(y_train)
 	mnb.score(x_test, y_test)
-	#print("testing data...............................................")
+
 	#print(x_test)
-	#print("dddd")
+
 	#print(y_test)
 
 	mnb_tot = MultinomialNB()
@@ -59,22 +58,21 @@ def index():
 	mnb_tot.score(x, y)
 
 	r=x.loc[x['abortion'] == 1]
-	durvesh=pd.DataFrame()
+	data=pd.DataFrame()
 
 	
-	for sym in strr:
+	for sym in request_str:
 		w=x.loc[x[sym.strip()] == 1]
-		durvesh=durvesh.append(w)
+		data=data.append(w)
 		print(w)
-	print("huhuhuhuh")
-	print(durvesh)
+	print(data)
 
 		
 
 
 	
 
-	disease_pred = mnb_tot.predict(durvesh)
+	disease_pred = mnb_tot.predict(data)
 	print(disease_pred)
 
 	main = {"disease":str(disease_pred)}
